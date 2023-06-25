@@ -1,4 +1,4 @@
-package org.stepic.java.example;
+package org.stepic.java.hash_override;
 
 public class Robot {
 
