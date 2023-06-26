@@ -1,7 +1,5 @@
 package org.stepic.java.ascii_class;
 
-import java.util.Arrays;
-
 public class AsciiCharSequence implements java.lang.CharSequence {
 
     private final byte[] chars;
